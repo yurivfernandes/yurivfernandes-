@@ -9,7 +9,7 @@
   <img align="center" alt="Power-BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="Dax" height="30" width="40" src="https://iconape.com/wp-content/files/qn/54858/svg/dax.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-figma-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-3030133.png?f=webp&w=256">
-  <img align="center" alt="GPT" height="30" width="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/chatgpt_logo-freelogovectors.net_-180x133.png">
+  <img align="center" alt="GPT" height="30" width="40" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4rE2ZJWGnrhYBUosRJ4UNyqn4ffKgDZOk6XL43-F9z21BztMIjsVND2eGqIPaYGXn1PJrOrxYYKuFHQe74GZBaTKWF7IVuKDIFcnUQ8ITt0WBFr_AgxckScYHixrhiDDD2_G8fskpTbtgYINihslB-mqR6lB5kPO1GlZONuje4Sndzm5D0lIl5mjtJpjd/s3000/Chatgpt.png">
 </div>
   
   ##
