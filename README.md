@@ -5,8 +5,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Polars" height="30" width="60" src="https://miro.medium.com/v2/resize:fit:621/0*gBA0OSDZN7vPtDQl.png">
-  <img align="center" alt="Pandas" height="30" width="30" src="https://pandas.pydata.org//static/img/favicon_white.ico">
-  <img align="center" alt="Power-BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+  <img align="center" alt="Pandas" height="40" width="40" src="https://pandas.pydata.org//static/img/favicon_white.ico">
+  <img align="center" alt="Power-BI" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="Dax" height="30" width="60" src="https://iconape.com/wp-content/files/qn/54858/svg/dax.svg">
   <img align="center" alt="Figma" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-figma-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-3030133.png?f=webp&w=256">
   <img align="center" alt="GPT" height="30" width="30" src="https://static.vecteezy.com/system/resources/previews/024/558/807/non_2x/openai-chatgpt-logo-icon-free-png.png">
