@@ -6,7 +6,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Power-BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="Dax" height="30" width="40" src="https://iconape.com/wp-content/files/qn/54858/svg/dax.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png">
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/figma-5.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
