@@ -4,12 +4,12 @@
 
 - <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Polars" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:621/0*gBA0OSDZN7vPtDQl.png">
+  <img align="center" alt="Polars" height="30" width="60" src="https://miro.medium.com/v2/resize:fit:621/0*gBA0OSDZN7vPtDQl.png">
   <img align="center" alt="Pandas" height="30" width="40" src="https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png">
   <img align="center" alt="Power-BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
   <img align="center" alt="Dax" height="30" width="40" src="https://iconape.com/wp-content/files/qn/54858/svg/dax.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-figma-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-3-pack-logos-icons-3030133.png?f=webp&w=256">
-  <img align="center" alt="GPT" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GPT-4.png/2048px-GPT-4.png">
+  <img align="center" alt="GPT" height="30" width="80" src="https://cdn.freelogovectors.net/wp-content/uploads/2024/02/chatgpt-logo-01-freelogovectors.net_.png">
 </div>
   
   ##
