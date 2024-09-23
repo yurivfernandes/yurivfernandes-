@@ -2,7 +2,7 @@
 
 - Transformo dados em insights significativos para impulsionar o sucesso dos negócios. Como analista de dados especializado em Power BI e Python, desenvolvo soluções analíticas robustas que simplificam complexidades e revelam tendências cruciais. Minha paixão reside na criação de relatórios dinâmicos e interativos, automatizando processos e capacitando gestores com informações essenciais para decisões estratégicas.
 
-- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Polars" height="30" width="60" src="https://miro.medium.com/v2/resize:fit:621/0*gBA0OSDZN7vPtDQl.png">
   <img align="center" alt="Pandas" height="30" width="30" src="https://pandas.pydata.org//static/img/favicon_white.ico">
