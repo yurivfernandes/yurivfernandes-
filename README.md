@@ -3,7 +3,7 @@
 - Transformo dados em insights significativos para impulsionar o sucesso dos negócios. Como analista de dados especializado em Power BI e Python, desenvolvo soluções analíticas robustas que simplificam complexidades e revelam tendências cruciais. Minha paixão reside na criação de relatórios dinâmicos e interativos, automatizando processos e capacitando gestores com informações essenciais para decisões estratégicas.
 
 - <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
