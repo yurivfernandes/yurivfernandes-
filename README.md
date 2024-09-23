@@ -1,6 +1,16 @@
 ## Olá, eu sou o Yuri!👋🏼 Sou analista de dados e desenvolvo relatórios com Python usando Pandas e Polars e Dashboards em Power BI
-
+<br>
 - Transformo dados em insights significativos para impulsionar o sucesso dos negócios. Como analista de dados especializado em Power BI e Python, desenvolvo soluções analíticas robustas que simplificam complexidades e revelam tendências cruciais. Minha paixão reside na criação de relatórios dinâmicos e interativos, automatizando processos e capacitando gestores com informações essenciais para decisões estratégicas.
+##
+<br>
+<!--github stats-->
+<div align="center" style="display: inline">
+   <a href="https://github.com/yurivfernandes">
+   <div style="display: inline_block">
+      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=yurivfernandes&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
+      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurivfernandes&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
+   </div>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
