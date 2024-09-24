@@ -73,8 +73,8 @@
    <img align="center" alt="DBeaver" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1200px-Notion-logo.svg.png">
    <img align="center" alt="Monday" height="30" width="30" src="https://www.cdnlogo.com/logos/m/75/monday.svg">
    <img align="center" alt="GitLab" height="30" width=30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/GitLab_icon.svg/800px-GitLab_icon.svg.png">
-   <img align="center" alt="Sharepoint" height="40" width="60" src="https://download.logo.wine/logo/SharePoint/SharePoint-Logo.wine.png">
    <img align="center" alt="Office" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/office-2.svg">
+   <img align="center" alt="Sharepoint" height="30" width="70" src="https://images.squarespace-cdn.com/content/v1/5ff8019bba95033834f15ff4/8185bae2-2b92-42c5-ab42-465db2ac132b/SharePoint-Logo.png">
 <br>
    Estou aprendendo sobre:
    <br>
