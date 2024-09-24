@@ -1,6 +1,8 @@
 ## **Olá, eu sou o Yuri! 👋🏼 Trabalho como analista de dados, desenvolvendo soluções robustas em análise e visualização de dados. Utilizo ferramentas como Python (Pandas e Polars) para análise e processamento de dados, além de criar Dashboards interativos e informativos no Power BI.
 <br>
+
 - Transformo dados em insights significativos para impulsionar o sucesso dos negócios. Como analista de dados especializado em Power BI e Python, desenvolvo soluções analíticas robustas que simplificam complexidades e revelam tendências cruciais. Minha paixão reside na criação de relatórios dinâmicos e interativos, automatizando processos e capacitando gestores com informações essenciais para decisões estratégicas.
+
 - 💬 Me pergunte sobre Python, PowerBI, Figma e IA Generativa.
 
 ##
