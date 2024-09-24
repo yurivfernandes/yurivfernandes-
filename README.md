@@ -12,7 +12,7 @@
    <a href="https://github.com/yurivfernandes">
    <div style="display: inline_block">
       <img height="175em" src="https://github-readme-stats.vercel.app/api?username=yurivfernandes&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
-      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurivfernandes&layout=compact&langs_count=10&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/> 
+      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurivfernandes&layout=compact&langs_count=11&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/> 
    </div>
 </div>
 
@@ -20,8 +20,9 @@
    <br>
    Linguagens de programação:
    <br>
-      <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="center" alt="JavaScript" height="30" width="40" src="https://camo.githubusercontent.com/426c1121b29abc64a6b1af1e3aa3091abb38e39c87054720b765af1425c74e7f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667">
+   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Java" height="30" width="20" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1100px-Java_Logo.svg.png">
+   <img align="center" alt="JavaScript" height="30" width="40" src="https://camo.githubusercontent.com/426c1121b29abc64a6b1af1e3aa3091abb38e39c87054720b765af1425c74e7f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667">
    <img align="center" alt="C#" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png">
    <img align="center" alt="HTML" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png">
    <img align="center" alt="CSS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg">
